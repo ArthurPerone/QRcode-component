@@ -65,7 +65,8 @@ body{
     body{
         main{
             width: 90vw;
-            height: 65vh;
+            min-height: 65vh;
+            margin: 2rem;
         }
 
     }
